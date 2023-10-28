@@ -1,0 +1,18 @@
+.BottomContainerPhoto {
+  object-fit: contain;
+  margin: auto;
+  display: block;
+}
+
+.BottomContainerPara {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.56vw;
+  color: #455a64;
+  display: flex;
+  justify-content: center;
+}
+.BottomContainerPara {
+  margin-top: 2.34vw;
+}

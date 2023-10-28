@@ -1,0 +1,41 @@
+.Navbar {
+  width: 100%;
+  position: fixed;
+  background: white;
+  height: 81px;
+  z-index: 500;
+  top: 0;
+  border-bottom: 2px solid #c4c4c4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 4.4vw;
+}
+.HomeNavLeft {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ConnectxLogo {
+  width: 10.67vw;
+  object-fit: contain;
+  cursor: pointer;
+}
+.NavbarSearchIcon {
+  position: absolute;
+  top: 20%;
+  right: 1%;
+  object-fit: contain;
+  width: 1.85vw;
+}
+.HomeNavRight {
+  display: flex;
+  align-items: center;
+}
+.NavbarUserProfile {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  cursor: pointer;
+}

@@ -1,0 +1,68 @@
+*LinkedIn Alumni project 
+
+>> Features
+    >> Login with Google, linkedin, github and institute mail
+    >> Batch and the Passing Year
+    >> Is alumni or not
+    >> View the profile of the Student/Alumni
+    >> History of the question you asked and question you answered
+    >> Search for the question you want to ask
+    >> Feeds about the Jobs and projects Available
+    >> Question from the student to the Alumni
+    >> Spaces/Groups of the Batchmate
+    >> Personal chattings
+    >> Notifications
+    >> landing page, sign-up and homepage
+    >> Upvotes on the answer and question asked
+    >> Admin Panel and report answer
+    >> Admin can delete/edit the answer and question asked
+    >> discussion in place of comments
+
+
+
+
+>> Landing page
+    >> We're delighted to have you here. 
+        >>Create your own connections with us. We give you the opportunity to strengthen your bond with alumni.
+        With Alumni’s help, you may improve your abilities and build a better future.
+
+    >> Find a project that interests you and connect with your alumni.
+        >> You can take suggestions from Alumni’s. It is critical to be up to date on the latest technology. Which can only be obtained through alumni.
+
+    >> Post your project idea and find the people you need
+        >> You may post some project ideas and make your team in the discussion box. You may communicate with your colleagues in a private group on our web.
+
+    >> Post your queries and have some great responses
+        >> You may ask questions on anything, and alumni will respond based on their own experiences (which no books or tutorials can give you). You can also upvote answers to assist your classmates in choosing the greatest answer.
+
+
+    >> know how to work on a job and on a project
+        >> You may read alumn's writings to have a better grasp of any work or project. At the same time, you may discuss this in a similar post with batchmates.
+    
+
+    >> Once people join ConnectX, they feel the connection
+
+    >> Connectx allows you to form an unbreakable connection with your alumni.
+
+
+
+
+>> About us
+    >> About Connectx
+        >> Welcome to Connectx, where we strive to maintain the senior-junior relationship in college.
+    
+    >> Objective
+        >> Most people are unable to connect with their alumni as a result of these covid factors. As a result, we decided to create ConnectX in order to keep the connection going.
+    
+    >> Who are we?
+        >> We are the students of Atal-Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior.
+    
+    >> The team consists of four members
+    Akash Gupta
+    Harshill Mendpara
+    Ujjawal Gupta
+    Raj Varsani
+    
+    We discovered that many of our group members are unaware of the Alumni ties and are unwilling to accept any advice or ideas from them. So, with the help of our successful alumni, we've created this platform for the development of juniors.
+    
+    

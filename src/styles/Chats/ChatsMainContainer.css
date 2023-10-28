@@ -1,0 +1,67 @@
+.MessageMainContainer {
+  margin-top: calc(81px + 1.2vw);
+  width: 88.5416667vw;
+
+  border-color: #555555;
+  height: 81.95vh;
+  border-radius: 5px;
+  position: relative;
+}
+.MessageLeftContainer {
+  overflow-y: scroll;
+}
+.scrollbarHidden::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbarHidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.BottomChatSection {
+  @apply rounded-br-md flex items-center justify-evenly;
+  background-color: #f5f5f5;
+  height: 4vw;
+}
+
+#chatMessage {
+  border: 1px solid #222222;
+  padding: 0.781vw 2.09vw;
+  @apply rounded-full w-11/12 outline-none font-manrope font-medium text-sm;
+}
+
+.BottomChatSection button {
+  background-color: #c4c4c4;
+  width: 3.125vw;
+  height: 3.125vw;
+  @apply rounded-full inline-flex items-center justify-center hover:bg-blue-500 transition;
+}
+
+.ImgChatSection {
+  border-radius: 50%;
+  object-fit: cover;
+}
+.submitButton {
+  width: 1.4vw;
+}
+.selectChat {
+  font-weight: 600 !important;
+  font-family: Manrope, sans-serif !important;
+  height: calc(100% - 4vw);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #222222;
+}
+.MessageMainContainerForm {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 67%;
+}
+.main-chat-wrapper {
+  width: 100%;
+  padding: 1rem;
+  padding-bottom: 4rem;
+}

@@ -1,0 +1,20 @@
+.HomeMainContainer {
+  display: flex;
+  padding-left: 9.2vw;
+  margin-top: 81px;
+  padding-top: 1.2vw;
+  position: relative;
+}
+
+#HomeContainerCreatePost {
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  padding-top: 81px;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

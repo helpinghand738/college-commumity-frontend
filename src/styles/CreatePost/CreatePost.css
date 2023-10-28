@@ -1,0 +1,18 @@
+.PostMainContainer {
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  background-color: white;
+  padding-top: calc(1.2vw);
+  position: relative;
+  padding-left: 2.5vw;
+  padding-right: 2.5vw;
+  margin: auto;
+}
+.InputCreatePost {
+  width: 16rem;
+  margin-bottom: 0.78vw;
+}
+.ImgCreatePost {
+  pointer-events: none;
+}

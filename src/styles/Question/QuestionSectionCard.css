@@ -1,0 +1,37 @@
+.question-section-card-wrapper {
+  @apply w-full grid rounded-md;
+  grid-template-columns: 7.5% 1fr;
+  border: 1px solid #bdbfc4;
+  margin-bottom: 1.5vw;
+}
+.question-section-card-left-wrapper {
+  @apply rounded-l-md;
+  background: #efefef;
+  padding-top: 1.25vw;
+}
+.question-section-card-right-wrapper {
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+}
+.question-section-read-more-wrapper {
+  margin-top: 1vw;
+  border-bottom: 1px solid #bdbfc4;
+  padding-left: 1.4vw;
+  padding-right: 1.4vw;
+}
+.question-section-card-user-profile {
+  padding-left: 1.4vw;
+  padding-right: 1.4vw;
+}
+.question-section-card-bottom-wrapper {
+  @apply flex;
+  padding: 1vw 0 0 0;
+}
+.question-section-card-bottom-wrapper div:first-child {
+  margin-left: 1.3vw;
+  margin-right: 1vw;
+}
+.question-discussion-section-answer-input-wrapper-wrapper {
+  border-top: 1px solid #bdbfc4;
+  margin-top: 1vw;
+}
